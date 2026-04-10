@@ -1,6 +1,6 @@
 # PiezoTensorNet App 
 
-[![Static Badge](https://img.shields.io/badge/piezotensornet-v1.0-brightgreen.svg)](https://piezotensornet.streamlit.app/)
+[![Static Badge](https://img.shields.io/badge/PiezoTensorNet-v1.0-brightgreen.svg)](https://piezotensornet.streamlit.app/)
 
 
 # How to Cite this Work:
